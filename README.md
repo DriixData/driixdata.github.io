@@ -1,14 +1,8 @@
 # 🎨 My Portfolio
 
 Welcome to my portfolio!
-This site showcases my background, skills, and projects as a **Data Analyst**.
-
-## 🚀 Overview
-
-Here, you will find:
-- My background and skills
-- My Data Analysis projects
-- A contact form
+This site showcases my background, skills, and 
+my last projects as a **Data Analyst**.
 
 ## 🛠️ Technologies Used
 
@@ -23,7 +17,6 @@ Here, you will find:
 
 Find me on [LinkedIn](https://www.linkedin.com/in/c3dr1c/) 
 
----
 
 Feel free to share your feedback! 😊
 
