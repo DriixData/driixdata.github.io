@@ -1,17 +1,21 @@
 # 🎨 My Portfolio
 
 Welcome to my portfolio!
+
 This site showcases my background, skills, and 
 my last projects as a **Data Analyst**.
 
-## 🛠️ Technologies Used
+➡️ [Access the portfolio](https://driixdata.github.io/)
 
-- HTML, CSS, JavaScript
-- Bootstrap 
+## 🛠️ Next steps
 
-## 🔗 Access the Portfolio
+- Review the entire CSS and implement SASS
+- Enable the switch button for FR/EN
+- Enable light mode and provide a choice
+- Fix the responsiveness of the "notebook" section
+- And of course, add more projects
 
-[My Portfolio](https://driixdata.github.io/)
+
 
 ## 📬 Contact
 
