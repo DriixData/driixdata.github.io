@@ -48,7 +48,7 @@ header nav a {
 }
 
 header nav .settings {
-    display: flex;
+    display: none;
 }
 
 header nav .settings .lang {
