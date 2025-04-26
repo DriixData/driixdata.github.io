@@ -177,6 +177,7 @@ header nav .settings .lang {
     background: #1d1d1d;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 .project-box h3 {
